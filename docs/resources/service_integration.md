@@ -112,6 +112,7 @@ Optional:
 - **producer_buffer_memory** (String) producer.buffer.memory
 - **producer_linger_ms** (String) producer.linger.ms
 - **producer_max_request_size** (String) producer.max.request.size
+- **producer_compression_type** (String) producer.compression.type
 
 
 
